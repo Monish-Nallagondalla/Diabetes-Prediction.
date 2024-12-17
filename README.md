@@ -80,7 +80,7 @@ The dataset consists of the following columns:
    
 ---
 
-**Model Details**
+## **Model Details**
 
 The project uses the following machine learning models:
 
@@ -94,7 +94,7 @@ The trained models and their associated scaler are saved in the Model folder as 
 
 ---
 
-**Project Workflow**
+## **Project Workflow**
 
 Data Preprocessing: Data is cleaned, missing values are handled, and features are scaled using StandardScaler.
 
@@ -106,7 +106,7 @@ Web Application: The Flask web app allows users to input their data and get pred
 
 ---
 
-**Future Work**
+## **Future Work**
 
 Model Improvement: Experiment with more advanced algorithms to improve prediction accuracy.
 
@@ -116,12 +116,12 @@ Feature Expansion: Add more features (such as family medical history) to enhance
 
 ---
 
-**License**
+## **License**
 This project is licensed under the MIT License. See the LICENSE.md file for more details.
 
 ---
 
-**Contact**
+## **Contact**
 
 For any questions or collaborations, feel free to reach out to me:
 
