@@ -81,6 +81,7 @@ The dataset consists of the following columns:
 ---
 
 **Model Details**
+
 The project uses the following machine learning models:
 
 Decision Tree Classifier: Used in Decision_tree_SVC.ipynb for classifying diabetes outcomes.
@@ -94,6 +95,7 @@ The trained models and their associated scaler are saved in the Model folder as 
 ---
 
 **Project Workflow**
+
 Data Preprocessing: Data is cleaned, missing values are handled, and features are scaled using StandardScaler.
 
 Model Training: Different models (Decision Tree, SVC, Logistic Regression) are trained on the dataset.
@@ -105,6 +107,7 @@ Web Application: The Flask web app allows users to input their data and get pred
 ---
 
 **Future Work**
+
 Model Improvement: Experiment with more advanced algorithms to improve prediction accuracy.
 
 Deployment: Deploy the Flask application to a cloud platform for public access.
@@ -116,7 +119,10 @@ Feature Expansion: Add more features (such as family medical history) to enhance
 **License**
 This project is licensed under the MIT License. See the LICENSE.md file for more details.
 
+---
+
 **Contact**
+
 For any questions or collaborations, feel free to reach out to me:
 
 Name: Monish Nallagondalla
